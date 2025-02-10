@@ -1,0 +1,12 @@
+BOT_TOKEN=("7809481533:AAGOvrEawYIv-cJTztIK9AWovkF45yVDAdc")
+
+OWNER_USERNAME=("@apnabhai_0")
+
+ADMIN_IDS=(6882674372)
+
+
+
+
+
+
+  
